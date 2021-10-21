@@ -7,9 +7,8 @@ suma+= uno[contador]
 } 
 console.log (suma);
 
-;
-  // Promedio [2,5,22,43124,32321,12,321312,10,1] //
-
+//ejercicio 2
+// Promedio [2,5,22,43124,32321,12,321312,10,1] //
 ;
 
 // Ejercicio 3
