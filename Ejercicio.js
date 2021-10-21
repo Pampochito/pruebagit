@@ -1,11 +1,12 @@
 // Ejercicio 1
 // Array [10,20,55,321321,312,4043,4341,0,312321,1]
-let A = [10,20,55,321321,312,4043,4341,0,312321,1]
-let suma=0
-for (let contador = 0; contador < A.length; contador++){
-suma+= A[contador]
+let uno = [10,20,55,321321,312,4043,4341,0,312321,1]
+let suma = 0
+for (let contador = 0; contador < uno.length; contador++){
+suma+= uno[contador]
 } 
 console.log (suma);
+
 // Ejercicio 2
 // Promedio [2,5,22,43124,32321,12,321312,10,1]
 
