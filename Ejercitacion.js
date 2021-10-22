@@ -6,7 +6,7 @@ const movies = require('./movies')
 /* Cantidad de películas por cada año */
 
 const moviesPerYear = () => {
-    let perYear = data.map((e) => {
+    let perYear = movies.map((e) => {
         console.log(e.Year)
     })
     return perYear
